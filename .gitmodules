@@ -1,0 +1,3 @@
+[submodule "upstream-tests"]
+	path = upstream-tests
+	url = https://github.com/FHIR/sql-on-fhir-v2
